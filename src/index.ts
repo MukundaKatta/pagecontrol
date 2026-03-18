@@ -1,2 +1,2 @@
-// pagecontrol — GUI Agent — control web pages with natural language
+export { PageAgent } from "./core.js";
 export const VERSION = "0.1.0";
